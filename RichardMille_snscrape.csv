@@ -1,123 +1,215 @@
-created_at,id,content,like_count,retweet_count
-2023-06-28 15:04:51+00:00,1674071369309384707,"The first-ever edition of the Richard Mille Cup was a unique cocktail of classic sailing, timeless locations and spirit-raising cross-channel competition. Taking place from 11 to 25 June it delivered every single drop of intoxication for participants and spectators. https://t.co/WiyqBiEQjM",32,4
-2023-06-26 15:15:35+00:00,1673349294533771265,"Anatomy of the RM 72-01 Red Gold. 
+id,created_at,content,like_count,retweet_count,cleaned_content
+1674071369309384707,2023-06-28 15:04:51+00:00,"The first-ever edition of the Richard Mille Cup was a unique cocktail of classic sailing, timeless locations and spirit-raising cross-channel competition. Taking place from 11 to 25 June it delivered every single drop of intoxication for participants and spectators. https://t.co/WiyqBiEQjM",33,4,the firstever edition of the richard mille cup was a unique cocktail of classic sailing timeless locations and spiritraising crosschannel competition taking place from 11 to 25 june it delivered every single drop of intoxication for participants and spectators 
+1673349294533771265,2023-06-26 15:15:35+00:00,"Anatomy of the RM 72-01 Red Gold. 
 
-#RichardMille https://t.co/DexynZJLwn",180,33
-2023-06-23 15:32:39+00:00,1672266426164432896,"Rare are the objects which, like racing cars, exude a harmonious blend of aerodynamic precision and refined aesthetics. 
+#RichardMille https://t.co/DexynZJLwn",180,33,"anatomy of the rm 7201 red gold 
+
+richardmille "
+1672266426164432896,2023-06-23 15:32:39+00:00,"Rare are the objects which, like racing cars, exude a harmonious blend of aerodynamic precision and refined aesthetics. 
 
 They are the epitome of pure performance and intelligent design.
 
 https://t.co/g9FOHZfhko
 
-#RichardMille #RM7201 #LeMansClassic https://t.co/EQ2vZKbXTM",53,5
-2023-06-22 15:06:45+00:00,1671897519180382208,"Limited to 150 pieces, the new RM 72-01 Le Mans Classic celebrates the centenary of the legendary 24 Hours of Le Mans race.
+#RichardMille #RM7201 #LeMansClassic https://t.co/EQ2vZKbXTM",53,5,"rare are the objects which like racing cars exude a harmonious blend of aerodynamic precision and refined aesthetics 
+
+they are the epitome of pure performance and intelligent design
+
+
+
+richardmille rm7201 lemansclassic "
+1671897519180382208,2023-06-22 15:06:45+00:00,"Limited to 150 pieces, the new RM 72-01 Le Mans Classic celebrates the centenary of the legendary 24 Hours of Le Mans race.
 
 https://t.co/g9FOHZfP9W
 
-#RichardMille #RM7201 #LeMansClassic https://t.co/0ZFrzTaJlB",401,51
-2023-06-21 15:09:42+00:00,1671535871965777920,"Live your passion. Be daring, throw yourself into it, and go beyond your limits. 
+#RichardMille #RM7201 #LeMansClassic https://t.co/0ZFrzTaJlB",401,52,"limited to 150 pieces the new rm 7201 le mans classic celebrates the centenary of the legendary 24 hours of le mans race
+
+
+
+richardmille rm7201 lemansclassic "
+1671535871965777920,2023-06-21 15:09:42+00:00,"Live your passion. Be daring, throw yourself into it, and go beyond your limits. 
 
 The RM 72-01 Le Mans Classic has been developed without compromise and with an unyielding focus on performance and excelling oneself.
 
 https://t.co/g9FOHZfhko
 
-#RichardMille #RM7201 @lemansclassic https://t.co/wjZlgqJj04",367,55
-2023-05-17 10:07:34+00:00,1658776264511987715,"From June 10 to 25, sailing enthusiasts have a date on the Channel for the first edition of the Richard Mille Cup, a regatta striving to recapture the spirit of the pre-war British racing circuit.
+#RichardMille #RM7201 @lemansclassic https://t.co/wjZlgqJj04",367,56,"live your passion be daring throw yourself into it and go beyond your limits 
 
-#RichardMille https://t.co/QmsRv7ZdBJ",41,10
-2023-05-04 15:32:41+00:00,1654147039259766787,"Anatomy of the RM 74-02.
+the rm 7201 le mans classic has been developed without compromise and with an unyielding focus on performance and excelling oneself
+
+
+
+richardmille rm7201 lemansclassic "
+1658776264511987715,2023-05-17 10:07:34+00:00,"From June 10 to 25, sailing enthusiasts have a date on the Channel for the first edition of the Richard Mille Cup, a regatta striving to recapture the spirit of the pre-war British racing circuit.
+
+#RichardMille https://t.co/QmsRv7ZdBJ",41,10,"from june 10 to 25 sailing enthusiasts have a date on the channel for the first edition of the richard mille cup a regatta striving to recapture the spirit of the prewar british racing circuit
+
+richardmille "
+1654147039259766787,2023-05-04 15:32:41+00:00,"Anatomy of the RM 74-02.
 
 https://t.co/KY3OFoOALK
 
-#RichardMille #RM7402 https://t.co/chlLWxn0OG",86,19
-2023-05-03 15:56:55+00:00,1653790751308783618,"The RM 74-02 is crafted using different innovative materials and advanced manufacturing techniques. The foundations of its fully in-house designed mechanic is a demonstration of an artistic and horological performance.
+#RichardMille #RM7402 https://t.co/chlLWxn0OG",86,20,"anatomy of the rm 7402
+
+
+
+richardmille rm7402 "
+1653790751308783618,2023-05-03 15:56:55+00:00,"The RM 74-02 is crafted using different innovative materials and advanced manufacturing techniques. The foundations of its fully in-house designed mechanic is a demonstration of an artistic and horological performance.
 
 https://t.co/KY3OFoOALK
 
-#RichardMille #RM7402 https://t.co/SNJoAqE5f4",120,14
-2023-05-02 15:22:05+00:00,1653419597398265861,"Anatomy of the RM 74-01.
+#RichardMille #RM7402 https://t.co/SNJoAqE5f4",120,14,"the rm 7402 is crafted using different innovative materials and advanced manufacturing techniques the foundations of its fully inhouse designed mechanic is a demonstration of an artistic and horological performance
+
+
+
+richardmille rm7402 "
+1653419597398265861,2023-05-02 15:22:05+00:00,"Anatomy of the RM 74-01.
 
 https://t.co/a9QG8vvTKL
 
-#RichardMille #RM7401 https://t.co/8UMon1mxoq",145,21
-2023-05-01 13:51:57+00:00,1653034527697039361,"Uniquely appealing, technically complex and universal, the RM 74-01 and RM 74-02 offer two unique versions of our in-house automatic tourbillon calibre.
+#RichardMille #RM7401 https://t.co/8UMon1mxoq",145,21,"anatomy of the rm 7401
+
+
+
+richardmille rm7401 "
+1653034527697039361,2023-05-01 13:51:57+00:00,"Uniquely appealing, technically complex and universal, the RM 74-01 and RM 74-02 offer two unique versions of our in-house automatic tourbillon calibre.
 
 RM 74-01 https://t.co/a9QG8vvTKL
 RM 74-02 https://t.co/KY3OFoOALK
 
-#RichardMille #RM7401 #RM7402 https://t.co/DiUsjZ7Dif",79,12
-2023-04-28 15:07:37+00:00,1651966404868947970,"Combining style, technicity and elegance for all, the in-house designed RM 74-02 is the culmination of thousands of hours of expert labor, with every component meticulously designed and crafted to the highest standards of precision.
+#RichardMille #RM7401 #RM7402 https://t.co/DiUsjZ7Dif",79,12,"uniquely appealing technically complex and universal the rm 7401 and rm 7402 offer two unique versions of our inhouse automatic tourbillon calibre
+
+rm 7401 
+rm 7402 
+
+richardmille rm7401 rm7402 "
+1651966404868947970,2023-04-28 15:07:37+00:00,"Combining style, technicity and elegance for all, the in-house designed RM 74-02 is the culmination of thousands of hours of expert labor, with every component meticulously designed and crafted to the highest standards of precision.
 
 https://t.co/KY3OFoOALK
 
-#RichardMille #RM7402 https://t.co/5lkNdIe4Ws",217,28
-2023-04-27 15:01:14+00:00,1651602408240304128,"The RM 74-01 is a true masterpiece of design and clever engineering, combining the latest watchmaking technicity with a sleek and modern design for everyone.
+#RichardMille #RM7402 https://t.co/5lkNdIe4Ws",217,28,"combining style technicity and elegance for all the inhouse designed rm 7402 is the culmination of thousands of hours of expert labor with every component meticulously designed and crafted to the highest standards of precision
+
+
+
+richardmille rm7402 "
+1651602408240304128,2023-04-27 15:01:14+00:00,"The RM 74-01 is a true masterpiece of design and clever engineering, combining the latest watchmaking technicity with a sleek and modern design for everyone.
 
 https://t.co/a9QG8vvTKL
 
-#RichardMille #RM7401 https://t.co/lMYOvb5f0h",251,27
-2023-04-26 15:17:56+00:00,1651244226020089857,"The RM 74-01 and RM 74-02 automatic tourbillons are perfect companions for anyone who appreciates style, performance, and innovation on a daily basis.
+#RichardMille #RM7401 https://t.co/lMYOvb5f0h",251,27,"the rm 7401 is a true masterpiece of design and clever engineering combining the latest watchmaking technicity with a sleek and modern design for everyone
+
+
+
+richardmille rm7401 "
+1651244226020089857,2023-04-26 15:17:56+00:00,"The RM 74-01 and RM 74-02 automatic tourbillons are perfect companions for anyone who appreciates style, performance, and innovation on a daily basis.
 
 RM 74-01: https://t.co/a9QG8vvTKL
 RM 74-02: https://t.co/KY3OFoOALK
 
-#RichardMille https://t.co/owzor3bH4U",238,26
-2023-04-20 15:29:39+00:00,1649072845845151746,"Anatomy of the RM 07-04 Sport 
+#RichardMille https://t.co/owzor3bH4U",237,26,"the rm 7401 and rm 7402 automatic tourbillons are perfect companions for anyone who appreciates style performance and innovation on a daily basis
+
+rm 7401 
+rm 7402 
+
+richardmille "
+1649072845845151746,2023-04-20 15:29:39+00:00,"Anatomy of the RM 07-04 Sport 
 Perfectly adapted to the constraints of our female partners' various disciplines, the RM 07-04 asserts pure performance and technical sophistication simultaneously.  
-#RichardMille https://t.co/lrfbFIzOcs",130,18
-2023-04-18 15:19:19+00:00,1648345469485981696,"We are delighted that @Thejessicakorda is joining her younger sister @NellyKorda and brother Sebastian Korda among the ranks of the RM brood. The Czech-American golfer has been a fan favourite on the LPGA tour for 13 years, combining a competitive spirit and generous personality. https://t.co/xVDEgzNi9B",154,11
-2023-04-17 16:38:06+00:00,1648002907629821961,"A day to remember for @LWadouxD44. 
+#RichardMille https://t.co/lrfbFIzOcs",130,18,"anatomy of the rm 0704 sport 
+perfectly adapted to the constraints of our female partners various disciplines the rm 0704 asserts pure performance and technical sophistication simultaneously  
+richardmille "
+1648345469485981696,2023-04-18 15:19:19+00:00,"We are delighted that @Thejessicakorda is joining her younger sister @NellyKorda and brother Sebastian Korda among the ranks of the RM brood. The Czech-American golfer has been a fan favourite on the LPGA tour for 13 years, combining a competitive spirit and generous personality. https://t.co/xVDEgzNi9B",154,11,we are delighted that thejessicakorda is joining her younger sister nellykorda and brother sebastian korda among the ranks of the rm brood the czechamerican golfer has been a fan favourite on the lpga tour for 13 years combining a competitive spirit and generous personality 
+1648002907629821961,2023-04-17 16:38:06+00:00,"A day to remember for @LWadouxD44. 
 Her first-ever WEC podium at the FIA WEC 6 Hours of Portimão in Portugal, less than a week after her 22nd birthday
-#RichardMille https://t.co/Dex0GgTnpq",47,4
-2023-04-17 15:58:16+00:00,1647992884203798531,"Birthday boy. 
+#RichardMille https://t.co/Dex0GgTnpq",47,4,"a day to remember for lwadouxd44 
+her firstever wec podium at the fia wec 6 hours of portimão in portugal less than a week after her 22nd birthday
+richardmille "
+1647992884203798531,2023-04-17 15:58:16+00:00,"Birthday boy. 
 Congratulations to @RGrosjean  for his first top three finish of the season in @IndyCar at the Long Beach Grand Prix. 
 What a way to celebrate his 37th birthday today!
-#RichardMille https://t.co/nyi9LFQX0K",49,8
-2023-03-20 15:54:54+00:00,1637845177598455809,"Capping off an unforgettable season.
+#RichardMille https://t.co/nyi9LFQX0K",49,8,"birthday boy 
+congratulations to rgrosjean  for his first top three finish of the season in indycar at the long beach grand prix 
+what a way to celebrate his 37th birthday today
+richardmille "
+1637845177598455809,2023-03-20 15:54:54+00:00,"Capping off an unforgettable season.
  @7ohannesb0  wins a record 19th victory of the campaign and a fourth Crystal Globe in Oslo. 
 There’s no stopping him.
 
-#RichardMille https://t.co/FLaLGrs2UJ",34,2
-2023-03-13 11:50:27+00:00,1635246944024154113,"A night to remember.
+#RichardMille https://t.co/FLaLGrs2UJ",34,2,"capping off an unforgettable season
+ 7ohannesb0  wins a record 19th victory of the campaign and a fourth crystal globe in oslo 
+there’s no stopping him
+
+richardmille "
+1635246944024154113,2023-03-13 11:50:27+00:00,"A night to remember.
 @myeoh_official  wins Best Actress @TheAcademy  awards 2023 for her leading performance in @allatoncemovie.
 
-#RichardMille https://t.co/HYtmHfxGQQ",91,20
-2023-03-05 10:39:07+00:00,1632329890488778752,"Simply the best. 
+#RichardMille https://t.co/HYtmHfxGQQ",91,20,"a night to remember
+myeohofficial  wins best actress theacademy  awards 2023 for her leading performance in allatoncemovie
+
+richardmille "
+1632329890488778752,2023-03-05 10:39:07+00:00,"Simply the best. 
 @thiam_nafi faced off stiff competition to set a new pentathlon World Record at the European indoor athletics championships in Istanbul. 
-#RichardMille https://t.co/QnjEpemKAh",88,12
-2023-03-01 16:55:56+00:00,1630975168561414161,"The RM 07-04 required three years of development because of many challenges: developing a new, very compact and skeletonised in-house automatic movement, guaranteeing high shock resistance, integrating the exterior perfectly into the movement while leaving its workings visible. https://t.co/fNRwW51IPW",348,30
-2023-03-01 16:40:33+00:00,1630971293527941121,"Offering a women’s skeleton sports watch is a gamble that few have dared to take. The RM 07-04 Automatic Sport collection is as much about aesthetics as it is about technicity.
+#RichardMille https://t.co/QnjEpemKAh",88,12,"simply the best 
+thiamnafi faced off stiff competition to set a new pentathlon world record at the european indoor athletics championships in istanbul 
+richardmille "
+1630975168561414161,2023-03-01 16:55:56+00:00,"The RM 07-04 required three years of development because of many challenges: developing a new, very compact and skeletonised in-house automatic movement, guaranteeing high shock resistance, integrating the exterior perfectly into the movement while leaving its workings visible. https://t.co/fNRwW51IPW",348,30,the rm 0704 required three years of development because of many challenges developing a new very compact and skeletonised inhouse automatic movement guaranteeing high shock resistance integrating the exterior perfectly into the movement while leaving its workings visible 
+1630971293527941121,2023-03-01 16:40:33+00:00,"Offering a women’s skeleton sports watch is a gamble that few have dared to take. The RM 07-04 Automatic Sport collection is as much about aesthetics as it is about technicity.
 
 https://t.co/3g886b3Bcx
 
-#RichardMille https://t.co/8GllZxPfcZ",93,13
-2023-02-28 16:27:33+00:00,1630605636063961088,"Richard Mille has always endeavoured to adapt each of its models to the needs and feelings of its partners. It is in this spirit that the RM 07-04 Automatic Sport was imagined and dedicated to the brand's sports partners.
+#RichardMille https://t.co/8GllZxPfcZ",93,13,"offering a women’s skeleton sports watch is a gamble that few have dared to take the rm 0704 automatic sport collection is as much about aesthetics as it is about technicity
+
+
+
+richardmille "
+1630605636063961088,2023-02-28 16:27:33+00:00,"Richard Mille has always endeavoured to adapt each of its models to the needs and feelings of its partners. It is in this spirit that the RM 07-04 Automatic Sport was imagined and dedicated to the brand's sports partners.
 
 https://t.co/3g886b3Bcx
 
-#RichardMille https://t.co/PnicDxre0v",112,12
-2023-02-27 16:31:06+00:00,1630244140855480326,"Yuliya, with her gravity-defying energy, is now taking off with the new RM 07-04 Automatic Sport, the lightest watch in the Richard Mille ladies' collection.
+#RichardMille https://t.co/PnicDxre0v",112,12,"richard mille has always endeavoured to adapt each of its models to the needs and feelings of its partners it is in this spirit that the rm 0704 automatic sport was imagined and dedicated to the brands sports partners
+
+
+
+richardmille "
+1630244140855480326,2023-02-27 16:31:06+00:00,"Yuliya, with her gravity-defying energy, is now taking off with the new RM 07-04 Automatic Sport, the lightest watch in the Richard Mille ladies' collection.
 
 https://t.co/3g886b4925 
 
-#RichardMille https://t.co/AZ8uSFLinE",122,8
-2023-02-27 16:19:06+00:00,1630241121476435968,"The RM 07-04 Automatic Sport is the most ‘airy’ of the Richard Mille's ladies’ models, an achievement made possible by the use of materials such as Quartz TPT® and Carbon TPT® for the case.
+#RichardMille https://t.co/AZ8uSFLinE",122,8,"yuliya with her gravitydefying energy is now taking off with the new rm 0704 automatic sport the lightest watch in the richard mille ladies collection
+
+ 
+
+richardmille "
+1630241121476435968,2023-02-27 16:19:06+00:00,"The RM 07-04 Automatic Sport is the most ‘airy’ of the Richard Mille's ladies’ models, an achievement made possible by the use of materials such as Quartz TPT® and Carbon TPT® for the case.
 
 https://t.co/3g886b3Bcx 
 
-#RichardMille https://t.co/JImFXAjWs2",126,10
-2023-02-27 16:10:04+00:00,1630238850068119554,"“The watch is really nice and super light. It is so light that it makes me want to move. I'm a high jumper, so feeling light for me is very significant. ""
+#RichardMille https://t.co/JImFXAjWs2",126,10,"the rm 0704 automatic sport is the most ‘airy’ of the richard milles ladies’ models an achievement made possible by the use of materials such as quartz tpt® and carbon tpt® for the case
 
-https://t.co/3g886b4925 https://t.co/b50TzwpHH5",40,4
-2023-02-26 16:39:58+00:00,1629883984569159681,"The RM 07-04 Automatic Sport collection provides another opportunity for @NellyKorda to express herself freely in her discipline. The RM 07-04 has already demonstrated its ability to withstand the shocks and g-force inherent to golf.
+ 
+
+richardmille "
+1630238850068119554,2023-02-27 16:10:04+00:00,"“The watch is really nice and super light. It is so light that it makes me want to move. I'm a high jumper, so feeling light for me is very significant. ""
+
+https://t.co/3g886b4925 https://t.co/b50TzwpHH5",40,4,"“the watch is really nice and super light it is so light that it makes me want to move im a high jumper so feeling light for me is very significant 
+
+ "
+1629883984569159681,2023-02-26 16:39:58+00:00,"The RM 07-04 Automatic Sport collection provides another opportunity for @NellyKorda to express herself freely in her discipline. The RM 07-04 has already demonstrated its ability to withstand the shocks and g-force inherent to golf.
 
 https://t.co/3g886b3Bcx 
 
-#RichardMille https://t.co/k1iIAsLBr2",223,20
-2023-02-26 16:27:27+00:00,1629880835083055105,"The new RM 07-04 Automatic Sport confirmed its resistance to 5,000 g’s of acceleration, a major feat for our most compact calibre comprising 328 components on a surface of only 29.90 x 22.00 x 5.13 mm.
+#RichardMille https://t.co/k1iIAsLBr2",222,20,"the rm 0704 automatic sport collection provides another opportunity for nellykorda to express herself freely in her discipline the rm 0704 has already demonstrated its ability to withstand the shocks and gforce inherent to golf
+
+ 
+
+richardmille "
+1629880835083055105,2023-02-26 16:27:27+00:00,"The new RM 07-04 Automatic Sport confirmed its resistance to 5,000 g’s of acceleration, a major feat for our most compact calibre comprising 328 components on a surface of only 29.90 x 22.00 x 5.13 mm.
 
 https://t.co/3g886b3Bcx
 
-#RichardMille https://t.co/hSgjd2hRS5",161,16
-2023-02-26 16:08:19+00:00,1629876020483436545,"“The watch is very slim, much lighter, and it feels very snug and just easy on the wrist I love that the colors pop, the blend with the burgundy and the pink and the fact that the face of the watch is white. It’s literally art. It’s a very beautiful sport piece.” https://t.co/ZrIrG1sWt3",52,5
-2023-02-25 16:34:34+00:00,1629520237652594691,".@thiam_nafi  two-time Olympic in the heptathlon, undertakes superhuman preparation to meet the challenge of this discipline. The wide range of skills means she has to be adaptable to any situation, a quality that inspired the design of the new RM 07-04 Automatic Sport. https://t.co/vKDbZVEq6G",71,7
+#RichardMille https://t.co/hSgjd2hRS5",161,16,"the new rm 0704 automatic sport confirmed its resistance to 5000 g’s of acceleration a major feat for our most compact calibre comprising 328 components on a surface of only 2990 x 2200 x 513 mm
+
+
+
+richardmille "
+1629876020483436545,2023-02-26 16:08:19+00:00,"“The watch is very slim, much lighter, and it feels very snug and just easy on the wrist I love that the colors pop, the blend with the burgundy and the pink and the fact that the face of the watch is white. It’s literally art. It’s a very beautiful sport piece.” https://t.co/ZrIrG1sWt3",52,5,“the watch is very slim much lighter and it feels very snug and just easy on the wrist i love that the colors pop the blend with the burgundy and the pink and the fact that the face of the watch is white it’s literally art it’s a very beautiful sport piece” 
+1629520237652594691,2023-02-25 16:34:34+00:00,".@thiam_nafi  two-time Olympic in the heptathlon, undertakes superhuman preparation to meet the challenge of this discipline. The wide range of skills means she has to be adaptable to any situation, a quality that inspired the design of the new RM 07-04 Automatic Sport. https://t.co/vKDbZVEq6G",71,7,thiamnafi  twotime olympic in the heptathlon undertakes superhuman preparation to meet the challenge of this discipline the wide range of skills means she has to be adaptable to any situation a quality that inspired the design of the new rm 0704 automatic sport 
